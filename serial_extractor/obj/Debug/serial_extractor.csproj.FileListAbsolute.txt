@@ -1,0 +1,11 @@
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\bin\Debug\serial_extractor.exe.config
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\bin\Debug\serial_extractor.exe
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\bin\Debug\serial_extractor.pdb
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\obj\Debug\serial_extractor.csproj.AssemblyReference.cache
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\obj\Debug\serial_extractor.csproj.SuggestedBindingRedirects.cache
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\obj\Debug\serial_extractor.frmMain.resources
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\obj\Debug\serial_extractor.Properties.Resources.resources
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\obj\Debug\serial_extractor.csproj.GenerateResource.cache
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\obj\Debug\serial_extractor.csproj.CoreCompileInputs.cache
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\obj\Debug\serial_extractor.exe
+C:\Users\suleiman\source\repos\serial_extractor\serial_extractor\obj\Debug\serial_extractor.pdb
